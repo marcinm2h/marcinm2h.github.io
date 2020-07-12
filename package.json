@@ -1,0 +1,11 @@
+{
+  "name": "marcinm2h.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marcinm2h/marcinm2h.github.io.git",
+  "author": "Marcin Moch <marcio.moch@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo TODO"
+  }
+}
