@@ -6,6 +6,7 @@
   "author": "Marcin Moch <marcio.moch@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "echo TODO"
+    "preinstall": "git submodule update --init",
+    "build": "yarn && cd flocking && yarn && yarn build && mv dist ../dist/flocking"
   }
 }
