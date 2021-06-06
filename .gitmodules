@@ -1,3 +1,6 @@
 [submodule "flocking"]
 	path = flocking
 	url = https://github.com/marcinm2h/flocking.git
+[submodule "erc20-token2021"]
+	path = erc20-token2021
+	url = https://github.com/marcinm2h/erc20-token2021.git
